@@ -2,7 +2,7 @@
 
 > Pay with transfer — without leaving the checkout screen.
 
-**[Live Demo →](https://fastcheckout.netlify.app/)**
+**[Live Demo →](https://fastproto.netlify.app/)**
 
 ---
 

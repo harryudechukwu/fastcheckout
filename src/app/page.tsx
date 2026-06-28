@@ -293,8 +293,7 @@ function FabModal({ onClose, onBackToCheckout }: { onClose: () => void; onBackTo
 
               <div className="flex items-center justify-center mb-3">
                 <div className="flex items-center gap-1.5 bg-[#F3F3F3] border border-[#E5E5E5] rounded-full px-3 py-1">
-                  <i className="ri-lock-2-fill text-[11px] text-[#6F5BD0]" />
-                  <span className="text-[11px] font-semibold text-[#5C636B]">Secured Input</span>
+                  <span className="text-[11px] font-semibold text-[#5C636B]">NO PIN STORED</span>
                 </div>
               </div>
 
